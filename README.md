@@ -1,5 +1,8 @@
 # PermBAC 🛡️
 
+> **DEPRECATED:** Please use [VDL](https://github.com/varavelio/vdl) with a policy plugin.
+
+<br/>
 <img src="./mascot.png"  width="180" />
 <br/>
 
